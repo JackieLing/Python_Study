@@ -1,0 +1,1 @@
+print("\nAlbert once said,\"Aperson ffff\"sss.")
