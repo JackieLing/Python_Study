@@ -1,0 +1,12 @@
+names=['张三','李四','王老五','武松','令狐']
+print(names)
+message=names[0]+"无法赴约"
+print(message)
+names[0]="成龙"
+print(names)
+names.insert(0,"叶问")
+print(names)
+names.insert(3,"王朗")
+print(names)
+names.append('陆仟')
+print(names)
